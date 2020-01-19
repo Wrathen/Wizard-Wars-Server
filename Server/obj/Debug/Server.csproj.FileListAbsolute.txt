@@ -1,0 +1,21 @@
+C:\Users\Kullanici\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Kullanici\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\Kullanici\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\Kullanici\source\repos\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Kullanici\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Kullanici\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\Kullanici\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\Frostiarn\Desktop\Perfect-Server-master\Server\bin\Debug\Server.exe.config
+C:\Users\Frostiarn\Desktop\Perfect-Server-master\Server\bin\Debug\Server.exe
+C:\Users\Frostiarn\Desktop\Perfect-Server-master\Server\bin\Debug\Server.pdb
+C:\Users\Frostiarn\Desktop\Perfect-Server-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Frostiarn\Desktop\Perfect-Server-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Frostiarn\Desktop\Perfect-Server-master\Server\obj\Debug\Server.exe
+C:\Users\Frostiarn\Desktop\Perfect-Server-master\Server\obj\Debug\Server.pdb
+C:\Users\frost\Desktop\Tasiniyorum\Wizard Wars Server\Server\bin\Debug\Server.exe.config
+C:\Users\frost\Desktop\Tasiniyorum\Wizard Wars Server\Server\bin\Debug\Server.exe
+C:\Users\frost\Desktop\Tasiniyorum\Wizard Wars Server\Server\bin\Debug\Server.pdb
+C:\Users\frost\Desktop\Tasiniyorum\Wizard Wars Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\frost\Desktop\Tasiniyorum\Wizard Wars Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\frost\Desktop\Tasiniyorum\Wizard Wars Server\Server\obj\Debug\Server.exe
+C:\Users\frost\Desktop\Tasiniyorum\Wizard Wars Server\Server\obj\Debug\Server.pdb
