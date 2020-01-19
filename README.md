@@ -1,4 +1,4 @@
 # Wizard Wars Server
 
-- Server of the Game Linked Below:
+- Server of this Game ->:
 https://github.com/Wrathen/Wizard-Wars
