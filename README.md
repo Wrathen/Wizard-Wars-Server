@@ -1,4 +1,4 @@
 # Wizard Wars Server
 
-- Server of this Game ->:
+- Client* of this Game ->:
 https://github.com/Wrathen/Wizard-Wars
